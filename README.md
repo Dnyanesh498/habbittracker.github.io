@@ -1,3 +1,9 @@
-# Habit-tracker-react-redux
+# Habit-tracker-react
 
-https://habit-tracker-app1.netlify.app/
+**to run this use npm start.**
+
+
+Project is deployed on netlify to see the project click the below link
+
+
+[habit tracker app](https://habit-tracker-app1.netlify.app/)
